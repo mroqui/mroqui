@@ -1,6 +1,6 @@
 Mroqui
 
-bash$ whoami
+$ whoami
 # Security Professional & System Administrator
 # 5+ years international hosting experience
 # Cybersecurity Operations Certificate - Polytechnique
